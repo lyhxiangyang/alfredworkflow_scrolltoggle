@@ -13,23 +13,24 @@
 <p align="center">
     <a href="https://github.com/lyhxiangyang/alfredworkflow_scrolltoggle/blob/main/readme_cn.md">中文说明</a> •
     <a href="https://github.com/lyhxiangyang/alfredworkflow_scrolltoggle/releases">Download</a> •
-    <a href="#1.how-to-use">How To Use</a> •
-    <a href="#2.current-situation ">current-situation</a>
+    <a href="#1.如何使用">如何使用</a> •
+    <a href="#2.现状">现状</a>
 </p>
 
-## 1.how-to-use 
+## 1.如何使用
 
 
-### Type `togglescroll` to simulate clicking the natural scroll button of the touchpad in the settings
+### 输入 `togglescroll`  模拟点击设置中触摸板的自然滚动按钮
+
 ![togglescroll](https://github.com/lyhxiangyang/alfredworkflow_scrolltoggle/raw/main/imgs/togglescroll.jpg)
 
-### How to realize
-Simulate clicking the natural scroll button of the touchpad in the settings to switch the scrolling direction of the touchpad.
-
+### 原理
+模拟点击设置中触摸板的自然滚动按钮，实现触摸板滚动方向的切换。
 ![setting](https://github.com/lyhxiangyang/alfredworkflow_scrolltoggle/raw/main/imgs/setting.jpg)
 
 
-## 2.current-situation
+## 2.现状
 
-Currently nearly ensure support for macOS15.0, other versions have not been tested due to lack of machine, if there is any problem, please feedback.
+目前近确保支持macOS15.0, 其他版本由于没有机器未测试，如有问题请反馈。
+
 
