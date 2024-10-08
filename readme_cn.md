@@ -1,6 +1,6 @@
-<h1 align="center">Recent Documents / Apps</h1>
+<h1 align="center">切换触摸板自然滚动方向</h1>
 
-<h4 align="center"> Quickly access recent documents and apps.</h4>
+<h4 align="center"> 快速切换触摸板自然滚动方向 </h4>
 
 <p align="center">
     <a href="#">

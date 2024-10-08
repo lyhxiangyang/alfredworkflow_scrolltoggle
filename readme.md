@@ -1,6 +1,6 @@
-<h1 align="center">Recent Documents / Apps</h1>
+<h1 align="center">Toggle Scrolling Direction of the touchpad </h1>
 
-<h4 align="center"> Quickly access recent documents and apps.</h4>
+<h4 align="center"> Quickly toggle scrolling direction of the touchpad</h4>
 
 <p align="center">
     <a href="#">
